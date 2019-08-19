@@ -78,6 +78,7 @@ console.log(internFive.gender);
 internTwo.speak = function () {
   return "Hello, my name is Kennan!";
 }
+
 console.log(internTwo.speak());
 
 // Antonietta loves math, give her the ability to multiply two numbers together and return the product. Use the console.log provided as a hint.
